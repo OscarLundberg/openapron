@@ -1,0 +1,22 @@
+{
+  "name": "ai-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "dotenv": "^16.0.3",
+    "inquirer": "^9.1.5",
+    "openai": "^3.2.1",
+    "simple-git": "^3.17.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
