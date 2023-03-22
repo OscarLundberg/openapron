@@ -1,2 +1,6 @@
 .env
 node_modules
+src/generated
+tmp
+swagger.json
+.DS_Store
